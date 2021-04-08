@@ -2,6 +2,8 @@
 <br>
 <br>
 <br>
+<br/><b>2021年04月08日 Update</b><br><br>
+已更新到最新版本。<br><br>
 <b>2020年06月17日 </b><br>
 第一个版本已经开发完。非官方接口。欢迎来撩~<br>
 <img src="https://s1.ax1x.com/2020/06/17/NVNHFx.png" >
